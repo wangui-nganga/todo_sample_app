@@ -1,8 +1,8 @@
 ---
-name: First Timer Only
-about: Create a First timer Only Issue
-title: first-timer-only
-labels: ''
+name: "\U0001F9E8 First Timer Only"
+about: Create a issue for a first timer contributor
+title: 'first-timer-only'
+labels: good-first-issue
 assignees: ''
 
 ---

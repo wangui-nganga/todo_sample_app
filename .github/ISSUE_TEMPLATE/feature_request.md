@@ -1,8 +1,8 @@
 ---
-name: Feature request :sparkles:
+name: "\U0002728 Feature request"
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: 'feature-issue'
+labels: feature
 assignees: ''
 
 ---
