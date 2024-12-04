@@ -1,7 +1,7 @@
 ---
-name: "\U0002728 Feature request"
+name: Feature request
 about: Suggest an idea for this project
-title: 'feature-issue'
+title: feature-issue
 labels: feature
 assignees: ''
 
